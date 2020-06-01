@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <title>МЕМЫ - ЭТО ЖИЗНЬ!</title>
+  <link rel="stylesheet" type="text/css" href="css/style.css">
+  <meta charset="UTF-8">
+ </head>
+  <body background="images/фон5.png">
+    <div id="container">
+     <div id="header">
+      <h2>Заходи не бойся, уходи не плакай</h2>
+	 </div>
+<!--меню сайта-->
+       <div id="mainmenu">
+        <ul>
+<!-- Описание ссылок в меню и сами ссылки. -->
+         <li><a href="index.html">Главное меню </a></li>
+         <li><a href="history.html">История мемов </a></li>
+		 </ul>
+       </div>
+<!--Конец меню сайта-->
+<!-- Область Контента -->
+<div id="table">
+<table align="center" border="1"> 
+
+     <tr > <!-- Основные столбцы -->
+         <td bgcolor="#000000" colspan="1" <b>Шаблон</b> </td>
+		 <td bgcolor="#000000" colspan="1" <b>Описание</b> </td>
+         <td bgcolor="#000000" colspan="1" <b>Пример</b> </td>
+     </tr>
+<!-- MEME -->	 
+	 <tr > 
+	     <td> <img src="images/kianu.jpg" width="50%"> </td>
+         <td width="400px"> <b>В любой плохой ситуации может быть ещё хуже. Удачного дня:)</b> </td>
+         <td>
+		 <img src="images/kianu1.jpg" width="50%">
+		 </td> 
+     </tr>
+     <tr > 
+	     <td> <img src="images/mind.jpg" width="50%"> </td>
+         <td width="400px"> <b>Мем описывает градацию от какой-либо нормы, до совсем бредовой идеи.</b> </td>
+         <td>
+		 <img src="images/mind1.jpg" width="50%">
+		 </td> 
+     </tr>
+	 <tr > 
+	     <td> <img src="images/fem.jpg" width="50%"> </td>
+         <td width="400px"> <b>Мем-издёвка над современной идеологией феминисток</b> </td>
+         <td>
+		 <img src="images/fem1.jpg" width="50%">
+		 </td> 
+     </tr>
+
+</table>
+<!--Подвал сайта-->
+<div id="footer">
+<h3>Не пишите ему никогда!</h3>
+Гаджи "Gadjarik" Александр <br>
+Номер телефона: <u> +79787911084 </u> <br>
+Почта mail.ru: <u> Серьёзно, этим кто-то ещё пользуется? </u>
+</div>
+</div>
+</body>
+</html>
